@@ -3,8 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,  
-  tileserverUrl: "http://0.0.0.0:3000/rpc/public.function_source"
+  production: false,
+  tileserverUrl: "http://localhost:3000/public.rota"
 };
 
 /*
